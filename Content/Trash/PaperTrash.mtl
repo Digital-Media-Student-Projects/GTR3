@@ -1,0 +1,5 @@
+﻿newmtl cardboard_boxes_MAT
+	map_Kd cardboard_boxes_MAT_D.bmp
+	map_Ks cardboard_boxes_MAT_S.bmp
+	bump cardboard_boxes_MAT_N.bmp
+
