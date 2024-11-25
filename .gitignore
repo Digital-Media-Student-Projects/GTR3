@@ -72,3 +72,9 @@ Plugins/**/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+
+# Files that are too big
+Content/CitySampleVehicles/*
+
+# Don't ignore the Garbage Truck
+!Content/CitySampleVehicles/vehicle11_Truck/*
