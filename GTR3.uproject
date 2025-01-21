@@ -23,5 +23,8 @@
 			"Name": "SkeletalMeshModelingTools",
 			"Enabled": true
 		}
+	],
+	"TargetPlatforms": [
+		"Windows"
 	]
 }
