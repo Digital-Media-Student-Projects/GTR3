@@ -73,8 +73,10 @@ Plugins/**/Intermediate/*
 # Cache files for the editor to use
 DerivedDataCache/*
 
-# Files that are too big
+# Ignore everything in CitySampleVehicles
 Content/CitySampleVehicles/*
 
-# Don't ignore the Garbage Truck
+# Do not ignore the specific folder
+!Content/CitySampleVehicles/vehicle11_Truck/
 !Content/CitySampleVehicles/vehicle11_Truck/*
+
