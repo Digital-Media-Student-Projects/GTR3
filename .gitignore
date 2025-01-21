@@ -77,6 +77,8 @@ DerivedDataCache/*
 Content/CitySampleVehicles/*
 
 # Do not ignore the specific folder
+!Content/CitySampleVehicles/Texture/
+!Content/CitySampleVehicles/Texture/*
 !Content/CitySampleVehicles/Material/
 !Content/CitySampleVehicles/Material/*
 !Content/CitySampleVehicles/vehicle11_Truck/
