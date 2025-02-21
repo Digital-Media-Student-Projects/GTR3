@@ -73,14 +73,5 @@ Plugins/**/Intermediate/*
 # Cache files for the editor to use
 DerivedDataCache/*
 
-# Ignore everything in CitySampleVehicles
-Content/CitySampleVehicles/*
-
-# Do not ignore the specific folder
-!Content/CitySampleVehicles/Texture/
-!Content/CitySampleVehicles/Texture/*
-!Content/CitySampleVehicles/Material/
-!Content/CitySampleVehicles/Material/*
-!Content/CitySampleVehicles/vehicle11_Truck/
-!Content/CitySampleVehicles/vehicle11_Truck/*
-
+#Packed
+Windows/*
